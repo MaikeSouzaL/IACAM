@@ -37,6 +37,4 @@ python IACAM.py
 ## Contribuição
 Caso queira contribuir, sinta-se à vontade para enviar um pull request ou relatar issues!
 
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
