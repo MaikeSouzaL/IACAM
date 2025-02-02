@@ -11,8 +11,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Dependências
-requirements.txt
 
 # Arquivos de logs e temporários
 *.log
@@ -43,4 +41,5 @@ teste.py
 # Manter apenas IACAM.py
 !*IACAM.py
 !*best.pt
+!*requirements.txt
 
